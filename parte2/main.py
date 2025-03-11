@@ -1,4 +1,4 @@
-from minhasopercoes import soma, subtracao, multiplicacao, divisao, exibir_resultado # type: ignore
+from minhasopercoes import soma, subtracao, multiplicacao, divisao, exibir_resultado 
 
 def main():
     operacao = input("Escolha a operação (+, -, *, /): ")
